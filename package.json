@@ -1,0 +1,27 @@
+{
+  "name": "projeto-api-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lueberGandra/projeto-api-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lueberGandra/projeto-api-express/issues"
+  },
+  "homepage": "https://github.com/lueberGandra/projeto-api-express#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
